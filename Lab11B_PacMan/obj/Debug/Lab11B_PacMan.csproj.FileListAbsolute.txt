@@ -1,0 +1,10 @@
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.csprojAssemblyReference.cache
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.Form1.resources
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.Properties.Resources.resources
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.csproj.GenerateResource.cache
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.csproj.CoreCompileInputs.cache
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\bin\Debug\Lab11B_PacMan.exe.config
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\bin\Debug\Lab11B_PacMan.exe
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\bin\Debug\Lab11B_PacMan.pdb
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.exe
+C:\Users\Student_PL\source\repos\Lab11B_PacMan\obj\Debug\Lab11B_PacMan.pdb
